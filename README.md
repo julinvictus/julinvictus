@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - ✨ Pronouns she/her <br>
 - 🌁🏙 Bay Area / São Paulo <br>
-- 🤓 Software Engineer at Remix
+- 🤓 Software Engineer
 
 <a href="https://github.com/julinvictus"><img src="https://img.shields.io/github/followers/julinvictus.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://twitter.com/JFArebelyell"><img src="https://img.shields.io/twitter/follow/JFArebelyell?label=Twitter&style=social" alt="Twitter"></a>
