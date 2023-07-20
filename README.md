@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://julinvictus.s3-us-west-2.amazonaws.com/julinvictus.jpg" alt="julinvictus" width="300"/>
 
 - ✨ Pronouns she/her <br>
-- 🌁🏙 Bay Area / São Paulo <br>
+- 🌁 Bay Area <br>
 - 🤓 Software Engineer
 
 <a href="https://github.com/julinvictus"><img src="https://img.shields.io/github/followers/julinvictus.svg?label=GitHub&style=social" alt="GitHub"></a>
