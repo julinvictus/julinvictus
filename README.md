@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://julinvictus.s3-us-west-2.amazonaws.com/julinvictus.jpg" alt="julinvictus" width="300"/>
-
 - ✨ Pronouns she/her <br>
 - 🌁 Bay Area <br>
 
